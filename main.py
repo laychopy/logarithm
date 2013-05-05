@@ -2,7 +2,7 @@ from helpers import ep
 
 
 class Logarithm():
-    '''Main Class of the library. Instance Logarithm with two varibles the base and the number Example:
+    '''Main Class of the library. Instance Logarithm with two arguments the base and the number Example:
 	   l = Logarithm(2,8)  '''
     def __init__(self, base, numero):
         self.b = base
